@@ -28,7 +28,6 @@ div {
 }
 
 .reverse {
-  transition: 0.2s;
   transform-style: preserve-3d;
   position: relative;
   transform: rotateY(180deg);
